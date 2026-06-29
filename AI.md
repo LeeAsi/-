@@ -4,3 +4,4 @@
 - 
 # skill
 - 让AI分析问题更详细  https://github.com/obra/superpowers
+- 用来找skill的skill  https://github.com/vercel-labs/skills
